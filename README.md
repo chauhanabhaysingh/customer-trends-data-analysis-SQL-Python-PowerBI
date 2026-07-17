@@ -14,7 +14,6 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 - Quick SQL tips, data memes, and behind-the-scenes content
 
-💼 LinkedIn: [Amlan Mohanty](https://www.linkedin.com/in/amlanmohanty1/)
 - Let’s connect professionally and grow your data career
 
 
